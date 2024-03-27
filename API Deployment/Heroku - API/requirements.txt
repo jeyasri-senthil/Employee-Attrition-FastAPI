@@ -1,8 +1,0 @@
-json
-numpy
-pickle
-fastapi
-uvicorn
-pydantic
-requests
-scikit-learn
