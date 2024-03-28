@@ -1,9 +1,12 @@
 ## ***Employee Attrition Prediction***
 *This repository contains code for predicting employee attrition using Machine Learning techniques. The prediction model is built upon thorough Exploratory Data Analysis (EDA) and Feature Engineering to leverage insights from the dataset. Two algorithms, Random Forest and XGBoost Classifier, are employed for prediction, with XGBoost demonstrating higher accuracy.*
 
-![2](https://github.com/jeyasri-senthil/Employee-Attrition/assets/108861190/654a3fc7-d057-4b4f-ac77-52d3e7d726b5)
 
-![3](https://github.com/jeyasri-senthil/Employee-Attrition/assets/108861190/131a35f2-597d-454f-8072-0063bc99ab69)
+![FastAPI-output](https://github.com/jeyasri-senthil/Employee-Attrition/assets/108861190/067a0389-9f1e-4024-97fd-10b5c4424b33)
+
+![OutputReference](https://github.com/jeyasri-senthil/Employee-Attrition/assets/108861190/aa734707-9af8-4459-8c81-50d615f459a3)
+
+
 
 
 ### ***Features***
