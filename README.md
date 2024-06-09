@@ -7,13 +7,12 @@
 ![OutputReference](https://github.com/jeyasri-senthil/Employee-Attrition/assets/108861190/aa734707-9af8-4459-8c81-50d615f459a3)
 
 
+### ***FEATURES***
 
+• ***Exploratory Data Analysis (EDA)***: *Detailed analysis of the dataset to understand distributions, correlations, and patterns within the data.*
 
-### ***Features***
-***Exploratory Data Analysis (EDA)***: *Detailed analysis of the dataset to understand distributions, correlations, and patterns within the data.*
+• ***Feature Engineering***: *Transformation of existing features to enhance model performance.*
 
-***Feature Engineering***: *Transformation of existing features to enhance model performance.*
+• ***Machine Learning Algorithms***: *Utilization of Random Forest and XGBoost Classifier for prediction tasks.*
 
-***Machine Learning Algorithms***: *Utilization of Random Forest and XGBoost Classifier for prediction tasks.*
-
-***FastAPI Deployment***: *The trained model is deployed as a FastAPI service for seamless integration into applications.*
+• ***FastAPI Deployment***: *The trained model is deployed as a FastAPI service for seamless integration into applications.*
